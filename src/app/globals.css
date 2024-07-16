@@ -6,6 +6,28 @@
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
   --background-end-rgb: 255, 255, 255;
+  --t-grey-50: #e8e8e8;
+  --t-grey-100: #b8b8b8;
+  --t-grey-200: #969696;
+  --t-grey-300: #666666;
+  --t-grey-400: #484848;
+  --t-grey-500: #232323;
+  --t-grey-600: #181818;
+  --t-grey-700: #121212;
+  --t-grey-800: #0e0e0e;
+  --t-grey-900: #0b0b0b;
+  --base: #1a1a1a;
+  --t-blue-50: #e6fbfb;
+  --t-blue-100: #b0f4f4;
+  --t-blue-200: #8aeeee;
+  --t-blue-300: #54e7e7;
+  --t-blue-400: #33e2e2;
+  --t-b-base: #00dbdb;
+  --t-blue-600: #00c7c7;
+  --t-blue-700: #009b9b;
+  --t-blue-800: #007878;
+  --t-blue-900: #005c5c;
+
 }
 
 @media (prefers-color-scheme: dark) {
